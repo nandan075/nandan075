@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Science Student  <br>💻 Interested in Software Development, AI, and Emerging Technologies  <br>🚀 Currently building projects in Web Development and Machine Learning  <br>🧠 Exploring Quantum Computing, Computer Vision, and Reinforcement Learning  <br>🤝 Open to collaboration on Open Source and impactful projects  <br>⚡ Turning ideas into code
+🎓 Computer Science Student  <br>💻 Interested in Software Development, AI, and Emerging Technologies  <br>🚀 Currently building projects in Web Development and Machine Learning  <br>🧠 Exploring Quantum Computing, Computer Vision  <br>🤝 Open to collaboration on Open Source and impactful projects  <br>⚡ Turning ideas into code
 
 
 ## 🌐 Socials:
